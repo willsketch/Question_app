@@ -1,0 +1,7 @@
+torch
+numpy
+tiktoken
+bs4
+requests
+wandb
+fastapi[all]==0.92.0
